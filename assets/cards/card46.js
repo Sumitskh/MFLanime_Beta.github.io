@@ -1,0 +1,28 @@
+document.getElementById("dataId46").innerHTML =
+     '<div class="episode">'
++        '<div class="edit-snapshot">'
++            '<img src="https://cdn.myanimelist.net/images/anime/1042/110294.jpg" alt="img1"'
++                'class="snap">'
++                '</div>'
++                   '<div class="episode-rating" id="episode-rating">'
++                        '<img src="../images/star.png" alt="stars" class="ratingImg">' 
++                        '<span class="epRating">9.2</span>'
++                    '</div>'
++                '<div class="episode-label-wrap">'
++                    '<div class="episode-label">'
++                        '<div class="episode-title-wrap">'
++                            '<span class="episode-title">'
++                                '<a href="#" title="Kyou kara Ore wa!!">"Kyou kara Ore wa!!"</a>'
++                            '</span>'
++                        '</div>'
++                        '<div class="episode-number-wrap">'
++                            '<div class="episode-number">'
++                                '<span class="text-hide">Kyou kara Ore wa!!</span> "10"'
++                            '</div>'
++                        '</div>'
++                    '</div>'
++                '</div>'
++        '</div>'
++    '</div>';
+
+console.log("card 46 loaded sucessfully");

@@ -1,0 +1,28 @@
+document.getElementById("dataId59").innerHTML =
+     '<div class="episode">'
++        '<div class="edit-snapshot">'
++            '<img src="https://cdn.myanimelist.net/images/anime/5/17667.jpg" alt="img1"'
++                'class="snap">'
++                '</div>'
++                   '<div class="episode-rating" id="episode-rating">'
++                        '<img src="../images/star.png" alt="stars" class="ratingImg">' 
++                        '<span class="epRating">7.5</span>'
++                    '</div>'
++                '<div class="episode-label-wrap">'
++                    '<div class="episode-label">'
++                        '<div class="episode-title-wrap">'
++                            '<span class="episode-title">'
++                                '<a href="#" title="Capeta">"Capeta"</a>'
++                            '</span>'
++                        '</div>'
++                        '<div class="episode-number-wrap">'
++                            '<div class="episode-number">'
++                                '<span class="text-hide">Capeta</span> "52"'
++                            '</div>'
++                        '</div>'
++                    '</div>'
++                '</div>'
++        '</div>'
++    '</div>';
+
+console.log("card 59 loaded sucessfully");

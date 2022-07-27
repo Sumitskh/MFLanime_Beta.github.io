@@ -1,0 +1,28 @@
+document.getElementById("dataId70").innerHTML =
+     '<div class="episode">'
++        '<div class="edit-snapshot">'
++            '<img src="https://cdn.myanimelist.net/images/anime/1125/102421.jpg" alt="img1"'
++                'class="snap">'
++                '</div>'
++                   '<div class="episode-rating" id="episode-rating">'
++                        '<img src="../images/star.png" alt="stars" class="ratingImg">' 
++                        '<span class="epRating">8.5</span>'
++                    '</div>'
++                '<div class="episode-label-wrap">'
++                    '<div class="episode-label">'
++                        '<div class="episode-title-wrap">'
++                            '<span class="episode-title">'
++                                '<a href="#" title="KenIchi: The Mightiest Disciple OVA">"KenIchi: The Mightiest Disciple OVA"</a>'
++                            '</span>'
++                        '</div>'
++                        '<div class="episode-number-wrap">'
++                            '<div class="episode-number">'
++                                '<span class="text-hide">KenIchi: The Mightiest Disciple OVA</span> "11"'
++                            '</div>'
++                        '</div>'
++                    '</div>'
++                '</div>'
++        '</div>'
++    '</div>';
+
+console.log("card 70 loaded sucessfully");

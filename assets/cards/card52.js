@@ -1,0 +1,28 @@
+document.getElementById("dataId52").innerHTML =
+     '<div class="episode">'
++        '<div class="edit-snapshot">'
++            '<img src="https://cdn.myanimelist.net/images/anime/13/11460.jpg" alt="img1"'
++                'class="snap">'
++                '</div>'
++                   '<div class="episode-rating" id="episode-rating">'
++                        '<img src="../images/star.png" alt="stars" class="ratingImg">' 
++                        '<span class="epRating">8.4</span>'
++                    '</div>'
++                '<div class="episode-label-wrap">'
++                    '<div class="episode-label">'
++                        '<div class="episode-title-wrap">'
++                            '<span class="episode-title">'
++                                '<a href="#" title="Great Teacher Onizuka">"Great Teacher Onizuka"</a>'
++                            '</span>'
++                        '</div>'
++                        '<div class="episode-number-wrap">'
++                            '<div class="episode-number">'
++                                '<span class="text-hide">Great Teacher Onizuka</span> "43"'
++                            '</div>'
++                        '</div>'
++                    '</div>'
++                '</div>'
++        '</div>'
++    '</div>';
+
+console.log("card 52 loaded sucessfully");

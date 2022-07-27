@@ -1,0 +1,28 @@
+document.getElementById("dataId55").innerHTML =
+     '<div class="episode">'
++        '<div class="edit-snapshot">'
++            '<img src="https://cdn.myanimelist.net/images/anime/12/49655.jpg" alt="img1"'
++                'class="snap">'
++                '</div>'
++                   '<div class="episode-rating" id="episode-rating">'
++                        '<img src="../images/star.png" alt="stars" class="ratingImg">' 
++                        '<span class="epRating">9.8</span>'
++                    '</div>'
++                '<div class="episode-label-wrap">'
++                    '<div class="episode-label">'
++                        '<div class="episode-title-wrap">'
++                            '<span class="episode-title">'
++                                '<a href="#" title="Hungry Heart: Wild Striker">"Hungry Heart: Wild Striker"</a>'
++                            '</span>'
++                        '</div>'
++                        '<div class="episode-number-wrap">'
++                            '<div class="episode-number">'
++                                '<span class="text-hide">Hungry Heart: Wild Striker</span> "52"'
++                            '</div>'
++                        '</div>'
++                    '</div>'
++                '</div>'
++        '</div>'
++    '</div>';
+
+console.log("card 55 loaded sucessfully");

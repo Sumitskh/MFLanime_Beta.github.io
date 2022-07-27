@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.block{
+    display: block;
+}
+.jspacebw{
+    justify-content: space-between;
+}
+.jcenter{
+    justify-content: center!important;
+}
+.aicenter{
+    align-items: center;
+}
